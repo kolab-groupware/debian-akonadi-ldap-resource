@@ -1,0 +1,16 @@
+Source: akonadi-ldap-resource
+Section: unknown
+Priority: optional
+Maintainer: Sandro Knauß <bugs@sandroknauss.de>
+Build-Depends: debhelper (>= 8), cmake, xsltproc, kdepimlibs5-dev (>= 4:4.13), libboost-dev
+Standards-Version: 3.9.5
+Homepage: http://git.kde.org/scratch/cmollekopf/akonadi-ldap-resource
+#Vcs-Git: git://anonscm.debian.org/collab-maint/akonadi-ldap-resource.git
+#Vcs-Browser: http://anonscm.debian.org/?p=collab-maint/akonadi-ldap-resource.git;a=summary
+
+Package: akonadi-ldap-resource
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: A Akonadi resource for LDAP
+ To have a possibility to use also ldap objects if you in offline mode you can
+ use this resource.
