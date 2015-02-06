@@ -1,4 +1,4 @@
-akonadi-ldap-resource (4.13.0.1-0~kolab1) unstable; urgency=low
+akonadi-ldap-resource (0.1.0-0~kolab1) unstable; urgency=low
 
   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
 
