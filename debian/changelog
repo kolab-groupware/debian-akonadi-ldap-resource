@@ -1,3 +1,9 @@
+akonadi-ldap-resource (0.1.2-0~kolab0) unstable; urgency=medium
+
+  * New upstream release 0.1.2
+
+ -- Sandro Knauß (Kolab Systems) <knauss@kolabsys.com>  Mon, 05 Oct 2015 14:11:47 +0200
+
 akonadi-ldap-resource (0.1.0-0~kolab1) unstable; urgency=low
 
   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
